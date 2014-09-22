@@ -1,0 +1,4 @@
+set encoding=utf-8
+set nospell
+colorscheme desert
+map <F1> <NOP>
